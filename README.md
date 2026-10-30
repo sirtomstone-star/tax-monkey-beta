@@ -1,8 +1,8 @@
 # Tax Monkey beta
 
 Tax Monkey is a Mac app for preparing your federal and Virginia income tax
-returns. Everything stays on your Mac: your return is saved locally, and
-nothing is sent anywhere.
+returns. Your return is saved on your Mac. Nothing about it leaves your Mac
+unless you turn on the optional AI help in Settings.
 
 ## Download
 
