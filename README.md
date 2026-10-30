@@ -30,6 +30,7 @@ notarized by Apple.
 
 ## Feedback
 
-In the app, choose **Send feedback** at the bottom of the sidebar. Or
+In the app, choose **Send feedback** at the bottom of the sidebar, or email
+TaxMonkeyFeedback@gmail.com. Or
 [open an issue](../../issues/new) here (needs a free GitHub account; issues
 are public, so leave out personal details).
