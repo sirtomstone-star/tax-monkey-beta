@@ -1,8 +1,12 @@
 # Tax Monkey beta
 
 Tax Monkey is a Mac app for preparing your federal and Virginia income tax
-returns. Your return is saved on your Mac. Nothing about it leaves your Mac
-unless you turn on the optional AI help in Settings.
+returns. Start from last year's return or from scratch; it reads this year's
+tax documents, works out the return, and prints the forms to sign and mail.
+
+Your return is saved on your Mac. Nothing about it leaves your Mac unless you
+turn on the optional AI help in Settings. Once a day the app asks this page
+whether a newer version is out; that check sends nothing about you.
 
 ## Download
 
@@ -21,9 +25,11 @@ notarized by Apple.
 - **Federal and Virginia only.** Other state returns aren't supported.
 - **Filing is by mail.** Tax Monkey creates the forms for you to print, sign
   and mail. E-filing isn't available yet.
-- **No automatic updates.** Come back to Releases for new versions. Your
-  saved returns are kept when you install a new version over the old one.
+- **Updates.** When a new version is out, the app tells you. Download it here
+  and drag it to Applications; your saved returns are kept.
 
 ## Feedback
 
-Send problems and suggestions to the person who invited you to the beta.
+In the app, choose **Send feedback** at the bottom of the sidebar. Or
+[open an issue](../../issues/new) here (needs a free GitHub account; issues
+are public, so leave out personal details).
