@@ -15,8 +15,8 @@ Get the latest `.dmg` from **[Releases](../../releases/latest)**.
 1. Open the DMG and drag **Tax Monkey** to **Applications**.
 2. Open Tax Monkey from Applications.
 
-Requires a Mac with Apple silicon (M1 or later). The app is signed and
-notarized by Apple.
+Works on any Mac with macOS 13 (Ventura) or later, Intel or Apple silicon.
+The app is signed and notarized by Apple.
 
 ## Before you use it
 
